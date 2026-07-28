@@ -1,0 +1,11 @@
+# robots.txt for John Reignel Bajao's portfolio
+# https://your-portfolio-url.example.com/
+#
+# All crawlers are welcome to index this site.
+# Update the Sitemap URL below once you know your final GitHub Pages URL,
+# e.g. https://<your-username>.github.io/portfolio-website/sitemap.xml
+
+User-agent: *
+Allow: /
+
+Sitemap: https://your-portfolio-url.example.com/sitemap.xml

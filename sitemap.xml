@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap for John Reignel Bajao's portfolio.
+  This is a single-page site, so section anchors are listed as separate
+  <url> entries with the same lastmod date — this is a common, accepted
+  pattern for one-page portfolio/landing sites and helps search engines
+  understand the page has distinct, navigable sections.
+
+  IMPORTANT: replace "https://your-portfolio-url.example.com" everywhere
+  below with your real GitHub Pages URL once deployed, e.g.
+  https://<your-username>.github.io/portfolio-website
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://your-portfolio-url.example.com/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://your-portfolio-url.example.com/#about</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://your-portfolio-url.example.com/#experience</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://your-portfolio-url.example.com/#tech-stack</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://your-portfolio-url.example.com/#certifications</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://your-portfolio-url.example.com/#contact</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
